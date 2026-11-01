@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-vocal-fatigue-acoustic-strain-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Vocal Fatigue Acoustic Strain - Zero-dependency Titze vocal dose collision stress modeler, cumulative speaking strain auditor, and vocal cord restoration rest protocol prescriber.",
+  "tools": [
+    "calculate_vocal_collision_dose_and_stress",
+    "evaluate_dysphonia_and_vocal_fatigue_risk",
+    "prescribe_vocal_recovery_and_rest_protocol"
+  ]
+}
